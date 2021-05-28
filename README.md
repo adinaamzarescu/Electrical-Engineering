@@ -9,6 +9,7 @@ Copyright 2021 Adina-Maria Amzarescu
 ___________________________________________________________
 
 Technologies:
+
 __->Octave__
 __->LTspice XVII__
 
