@@ -11,6 +11,7 @@ ___________________________________________________________
 Technologies:
 
 __->Octave__
+
 __->LTspice XVII__
 
 The circuits were implemented using the LaTeX draw tool.
