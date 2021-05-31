@@ -17,6 +17,6 @@ __-> LTspice XVII__
 The circuits were implemented using the LaTeX draw tool.
 
 For a complete understanding of the code please read the
-Electrical-Circuit-Project.pdf file. 
+Electrical-Circuit-Project.pdf file.
 
 ___________________________________________________________
